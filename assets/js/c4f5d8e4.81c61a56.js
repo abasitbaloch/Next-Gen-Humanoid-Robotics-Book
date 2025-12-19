@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkphysical_ai_humanoid_robotics_book=globalThis.webpackChunkphysical_ai_humanoid_robotics_book||[]).push([[634],{192:(o,i,a)=>{a.r(i),a.d(i,{default:()=>h});a(6540);var s=a(6347),c=a(6025),t=a(4848);function h(){const o=(0,c.A)("/docs/intro");return(0,t.jsx)(s.rd,{to:o})}}}]);
